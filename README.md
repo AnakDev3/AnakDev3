@@ -2,7 +2,6 @@
 
 Jangan Lupa Follow Github Gw Ya Slurr, Bagi Yang Sudah Follow Makasih Ya :)
 ![github stats](https://github-readme-stats.vercel.app/api?username=AnakDev3&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnakDev3&theme=red&hide_langs_below=1" />
 
 ### Find Me On
 * [<img alt="AnakDev3's Youtube" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>AnakDev3</b>]()<br />
