@@ -1,6 +1,6 @@
 # Welcome Coyy
 
-Jangan Lupa Follow Github Gw Ya Slurr, Bagi Yang Sudah Follow Makasih Ya :)
+Semoga anda betah dengan tools kami
 ![github stats](https://github-readme-stats.vercel.app/api?username=AnakDev3&show_icons=true&theme=radical)
 
 ### Find Me On
